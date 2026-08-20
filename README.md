@@ -1,2 +1,2 @@
 # Revisiting senolytics: an anti-aging drug safety perspective
-Provide the original SVG figure assets from this review for easier reuse by readers.
+We provided the SVG graphics modules used in the original paper's legends here, to make it easier for interested readers to reuse them.
