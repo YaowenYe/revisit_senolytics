@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 760" width="1600" height="760">
+<defs><marker id="ah" markerWidth="11" markerHeight="10" refX="9" refY="4" orient="auto"><path d="M0,0 L9,4 L0,8 z" fill="#111111"/></marker></defs>
+<text x="800.0" y="56.0" text-anchor="middle" font-family="Arial,Helvetica,Liberation Sans,sans-serif" font-size="46" font-weight="bold" fill="#111111">Senolytic “hit-and-run” dosing — intermittent D+Q regimen (human)</text>
+<rect x="900" y="92" width="640" height="142" rx="16" fill="#f4f8fd" stroke="#1f5fa8" stroke-width="2.5"/>
+<text x="1220.0" y="136.0" text-anchor="middle" font-family="Arial,Helvetica,Liberation Sans,sans-serif" font-size="35" font-weight="bold" fill="#1f5fa8">D 100 mg/day + Q 1250 mg/day, p.o.</text>
+<text x="1220.0" y="180.0" text-anchor="middle" font-family="Arial,Helvetica,Liberation Sans,sans-serif" font-size="33" font-weight="normal" fill="#1f5fa8">3 consecutive days per week, for 3 weeks</text>
+<text x="1220.0" y="218.0" text-anchor="middle" font-family="Arial,Helvetica,Liberation Sans,sans-serif" font-size="28" font-weight="normal" fill="#1f5fa8">dosing days 1–3, 8–10 and 15–17 (9 doses total)</text>
+<path d="M110.0,410.0 L80,294 M307.1,410.0 L600,294" stroke="#1f5fa8" stroke-width="2.5" stroke-dasharray="8,6" fill="none"/>
+<rect x="80" y="118" width="520" height="176" rx="12" fill="#f4f8fd" stroke="#1f5fa8" stroke-width="2.5"/>
+<text x="340.0" y="104.0" text-anchor="middle" font-family="Arial,Helvetica,Liberation Sans,sans-serif" font-size="40" font-weight="bold" fill="#1f5fa8">3 consecutive days per course</text>
+<g transform="translate(176.0,194.0) rotate(-40) scale(0.85)"><rect x="-26" y="-11" width="52" height="22" rx="11" fill="#dce8f7" stroke="#1f5fa8" stroke-width="2.5"/><path d="M-26,-11 h26 v22 h-26 a11,11 0 0 1 0,-22 z" fill="#1f5fa8"/></g>
+<text x="176.0" y="258.0" text-anchor="middle" font-family="Arial,Helvetica,Liberation Sans,sans-serif" font-size="32" font-weight="normal" fill="#1f5fa8">Day 1</text>
+<g transform="translate(340.0,194.0) rotate(-40) scale(0.85)"><rect x="-26" y="-11" width="52" height="22" rx="11" fill="#dce8f7" stroke="#1f5fa8" stroke-width="2.5"/><path d="M-26,-11 h26 v22 h-26 a11,11 0 0 1 0,-22 z" fill="#1f5fa8"/></g>
+<text x="340.0" y="258.0" text-anchor="middle" font-family="Arial,Helvetica,Liberation Sans,sans-serif" font-size="32" font-weight="normal" fill="#1f5fa8">Day 2</text>
+<g transform="translate(504.0,194.0) rotate(-40) scale(0.85)"><rect x="-26" y="-11" width="52" height="22" rx="11" fill="#dce8f7" stroke="#1f5fa8" stroke-width="2.5"/><path d="M-26,-11 h26 v22 h-26 a11,11 0 0 1 0,-22 z" fill="#1f5fa8"/></g>
+<text x="504.0" y="258.0" text-anchor="middle" font-family="Arial,Helvetica,Liberation Sans,sans-serif" font-size="32" font-weight="normal" fill="#1f5fa8">Day 3</text>
+<rect x="307.1" y="446.0" width="262.9" height="64.0" fill="#fdf0e2" stroke="#e39a4d" stroke-width="2.5"/>
+<text x="438.6" y="489.0" text-anchor="middle" font-family="Arial,Helvetica,Liberation Sans,sans-serif" font-size="32" font-weight="normal" fill="#b8721f">drug-free</text>
+<rect x="110.0" y="410.0" width="197.1" height="100.0" rx="8" fill="#1f5fa8"/>
+<g transform="translate(142.9,378.0) rotate(-40) scale(1.05)"><rect x="-26" y="-11" width="52" height="22" rx="11" fill="#dce8f7" stroke="#1f5fa8" stroke-width="2.5"/><path d="M-26,-11 h26 v22 h-26 a11,11 0 0 1 0,-22 z" fill="#1f5fa8"/></g>
+<g transform="translate(208.6,378.0) rotate(-40) scale(1.05)"><rect x="-26" y="-11" width="52" height="22" rx="11" fill="#dce8f7" stroke="#1f5fa8" stroke-width="2.5"/><path d="M-26,-11 h26 v22 h-26 a11,11 0 0 1 0,-22 z" fill="#1f5fa8"/></g>
+<g transform="translate(274.3,378.0) rotate(-40) scale(1.05)"><rect x="-26" y="-11" width="52" height="22" rx="11" fill="#dce8f7" stroke="#1f5fa8" stroke-width="2.5"/><path d="M-26,-11 h26 v22 h-26 a11,11 0 0 1 0,-22 z" fill="#1f5fa8"/></g>
+<text x="208.6" y="602.0" text-anchor="middle" font-family="Arial,Helvetica,Liberation Sans,sans-serif" font-size="40" font-weight="bold" fill="#1f5fa8">Course 1</text>
+<text x="208.6" y="642.0" text-anchor="middle" font-family="Arial,Helvetica,Liberation Sans,sans-serif" font-size="32" font-weight="normal" fill="#1f5fa8">Days 1–3</text>
+<rect x="767.1" y="446.0" width="262.9" height="64.0" fill="#fdf0e2" stroke="#e39a4d" stroke-width="2.5"/>
+<text x="898.6" y="489.0" text-anchor="middle" font-family="Arial,Helvetica,Liberation Sans,sans-serif" font-size="32" font-weight="normal" fill="#b8721f">drug-free</text>
+<rect x="570.0" y="410.0" width="197.1" height="100.0" rx="8" fill="#1f5fa8"/>
+<g transform="translate(602.9,378.0) rotate(-40) scale(1.05)"><rect x="-26" y="-11" width="52" height="22" rx="11" fill="#dce8f7" stroke="#1f5fa8" stroke-width="2.5"/><path d="M-26,-11 h26 v22 h-26 a11,11 0 0 1 0,-22 z" fill="#1f5fa8"/></g>
+<g transform="translate(668.6,378.0) rotate(-40) scale(1.05)"><rect x="-26" y="-11" width="52" height="22" rx="11" fill="#dce8f7" stroke="#1f5fa8" stroke-width="2.5"/><path d="M-26,-11 h26 v22 h-26 a11,11 0 0 1 0,-22 z" fill="#1f5fa8"/></g>
+<g transform="translate(734.3,378.0) rotate(-40) scale(1.05)"><rect x="-26" y="-11" width="52" height="22" rx="11" fill="#dce8f7" stroke="#1f5fa8" stroke-width="2.5"/><path d="M-26,-11 h26 v22 h-26 a11,11 0 0 1 0,-22 z" fill="#1f5fa8"/></g>
+<text x="668.6" y="602.0" text-anchor="middle" font-family="Arial,Helvetica,Liberation Sans,sans-serif" font-size="40" font-weight="bold" fill="#1f5fa8">Course 2</text>
+<text x="668.6" y="642.0" text-anchor="middle" font-family="Arial,Helvetica,Liberation Sans,sans-serif" font-size="32" font-weight="normal" fill="#1f5fa8">Days 8–10</text>
+<rect x="1227.1" y="446.0" width="262.9" height="64.0" fill="#fdf0e2" stroke="#e39a4d" stroke-width="2.5"/>
+<text x="1358.6" y="489.0" text-anchor="middle" font-family="Arial,Helvetica,Liberation Sans,sans-serif" font-size="32" font-weight="normal" fill="#b8721f">drug-free</text>
+<rect x="1030.0" y="410.0" width="197.1" height="100.0" rx="8" fill="#1f5fa8"/>
+<g transform="translate(1062.9,378.0) rotate(-40) scale(1.05)"><rect x="-26" y="-11" width="52" height="22" rx="11" fill="#dce8f7" stroke="#1f5fa8" stroke-width="2.5"/><path d="M-26,-11 h26 v22 h-26 a11,11 0 0 1 0,-22 z" fill="#1f5fa8"/></g>
+<g transform="translate(1128.6,378.0) rotate(-40) scale(1.05)"><rect x="-26" y="-11" width="52" height="22" rx="11" fill="#dce8f7" stroke="#1f5fa8" stroke-width="2.5"/><path d="M-26,-11 h26 v22 h-26 a11,11 0 0 1 0,-22 z" fill="#1f5fa8"/></g>
+<g transform="translate(1194.3,378.0) rotate(-40) scale(1.05)"><rect x="-26" y="-11" width="52" height="22" rx="11" fill="#dce8f7" stroke="#1f5fa8" stroke-width="2.5"/><path d="M-26,-11 h26 v22 h-26 a11,11 0 0 1 0,-22 z" fill="#1f5fa8"/></g>
+<text x="1128.6" y="602.0" text-anchor="middle" font-family="Arial,Helvetica,Liberation Sans,sans-serif" font-size="40" font-weight="bold" fill="#1f5fa8">Course 3</text>
+<text x="1128.6" y="642.0" text-anchor="middle" font-family="Arial,Helvetica,Liberation Sans,sans-serif" font-size="32" font-weight="normal" fill="#1f5fa8">Days 15–17</text>
+<line x1="110.0" y1="520.0" x2="1516.0" y2="520.0" stroke="#111111" stroke-width="4" marker-end="url(#ah)"/>
+<line x1="110.0" y1="520.0" x2="110.0" y2="534.0" stroke="#111111" stroke-width="3"/>
+<text x="110.0" y="572.0" text-anchor="middle" font-family="Arial,Helvetica,Liberation Sans,sans-serif" font-size="34" font-weight="normal" fill="#111111">0</text>
+<line x1="570.0" y1="520.0" x2="570.0" y2="534.0" stroke="#111111" stroke-width="3"/>
+<text x="570.0" y="572.0" text-anchor="middle" font-family="Arial,Helvetica,Liberation Sans,sans-serif" font-size="34" font-weight="normal" fill="#111111">7</text>
+<line x1="1030.0" y1="520.0" x2="1030.0" y2="534.0" stroke="#111111" stroke-width="3"/>
+<text x="1030.0" y="572.0" text-anchor="middle" font-family="Arial,Helvetica,Liberation Sans,sans-serif" font-size="34" font-weight="normal" fill="#111111">14</text>
+<line x1="1490.0" y1="520.0" x2="1490.0" y2="534.0" stroke="#111111" stroke-width="3"/>
+<text x="1490.0" y="572.0" text-anchor="middle" font-family="Arial,Helvetica,Liberation Sans,sans-serif" font-size="34" font-weight="normal" fill="#111111">21</text>
+<text x="1494.0" y="616.0" text-anchor="end" font-family="Arial,Helvetica,Liberation Sans,sans-serif" font-size="40" font-weight="bold" fill="#111111">Time (days)</text>
+<text x="800.0" y="706.0" text-anchor="middle" font-family="Arial,Helvetica,Liberation Sans,sans-serif" font-size="27" font-weight="normal" fill="#444444">Short dosing burst + drug-free interval → ↓ cumulative toxicity; clearance persists between courses (D and Q half-lives &lt;6 h)</text>
+<text x="800.0" y="744.0" text-anchor="middle" font-family="Arial,Helvetica,Liberation Sans,sans-serif" font-size="26" font-weight="normal" fill="#777777">Schematic based on the human D+Q regimen of Justice et al. 2019 (NCT02874989); exact regimen is compound- and trial-specific.</text>
+</svg>
