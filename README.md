@@ -4,7 +4,7 @@ We provided the SVG graphics modules used in our manuscript here, making it easi
 
 
 <img width="4251" height="2598" alt="fig1_mtor_rapamycin_final" src="https://github.com/user-attachments/assets/7ca2d5aa-0273-4c39-bfc4-77d29dc13eb4" />
-_**Fig. 1 | Rapamycin inhibits mTORC1 and suppresses the senescence-associated secretory phenotype.**_ Rapamycin binds the intracellular immunophilin FKBP12; the resulting FKBP12–rapamycin complex engages the FRB domain of mTOR (PDB 1FAP), allosterically inhibiting mTORC1 (mTOR–Raptor–mLST8; PDB 6BCX). Loss of mTORC1 activity reduces p70S6K and 4E-BP1 phosphorylation, promotes autophagy, and imposes a G1 cell-cycle arrest. In senescent cells, mTORC1 inhibition attenuates translation of SASP components and NF-κB-driven inflammatory signalling, lowering secretion of IL-6, IL-1α, IL-8 and MMP-3 (right). Chemical structure drawn from canonical SMILES; protein structures rendered from the indicated PDB entries; schematic created with BioRender.com.
+**Fig. 1 | Rapamycin inhibits mTORC1 and suppresses the senescence-associated secretory phenotype.** Rapamycin binds the intracellular immunophilin FKBP12; the resulting FKBP12–rapamycin complex engages the FRB domain of mTOR (PDB 1FAP), allosterically inhibiting mTORC1 (mTOR–Raptor–mLST8; PDB 6BCX). Loss of mTORC1 activity reduces p70S6K and 4E-BP1 phosphorylation, promotes autophagy, and imposes a G1 cell-cycle arrest. In senescent cells, mTORC1 inhibition attenuates translation of SASP components and NF-κB-driven inflammatory signalling, lowering secretion of IL-6, IL-1α, IL-8 and MMP-3 (right). Chemical structure drawn from canonical SMILES; protein structures rendered from the indicated PDB entries; schematic created with BioRender.com.
 
 
 
